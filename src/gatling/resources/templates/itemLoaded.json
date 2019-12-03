@@ -1,0 +1,7 @@
+{
+  "batchNumber": "${batchNumber}",
+  "item": "${item}",
+  "type": "${type}",
+  "location": "$location",
+  "status": "$status"
+}
